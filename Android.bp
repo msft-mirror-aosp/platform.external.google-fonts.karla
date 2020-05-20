@@ -16,5 +16,6 @@
 prebuilt_font {
     name: "Karla-Regular.ttf",
     src: "Karla-Regular.ttf",
+    product_specific: true,
 }
         
